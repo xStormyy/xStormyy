@@ -1,10 +1,6 @@
-
-# Hi there!
 [ ⌂ ] I am interested in making UI and GUIs
 
-[ ᯾ ] I am currently learning Java & Javascript
-
-[ ✓ ] You can contact me on discord: xStormy#9882
+[ ᯾ ] I enjoy programming using Python and HTML
 
 [ 🇩🇪 ] German is my main language, so you might see me help translate some apps I regularly use!
 
