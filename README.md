@@ -1,6 +1,6 @@
-[ ⌂ ] I am interested in making UI and GUIs
+[ ⌂ ] I am interested in making UIs
 
-[ ᯾ ] I enjoy programming using Python and HTML
+[ ᯾ ] I enjoy programming in Python and HTML
 
-[ 🇩🇪 ] German is my main language, so you might see me help translate some apps I regularly use!
+[ 🇦🇹 ] I am Austrian, so you might see me help translate some apps I regularly use to german!
 
